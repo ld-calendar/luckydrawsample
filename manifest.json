@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "온라인 럭키드로우 샘플",
+  "name": "온라인 럭키드로우 샘플사이트입니다.",
   "icons": [
     {
       "src": "favicon.ico",
